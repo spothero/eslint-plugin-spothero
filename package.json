@@ -1,6 +1,6 @@
 {
   "name": "@spothero/eslint-plugin-spothero",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SpotHero custom eslint plugin and rules",
   "keywords": [
     "eslint",
