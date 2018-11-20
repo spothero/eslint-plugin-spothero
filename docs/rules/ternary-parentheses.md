@@ -1,0 +1,1 @@
+# Require Ternary Expressions to have condition enclosed by parentheses (ternary-parentheses)
