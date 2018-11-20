@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "spothero/rule-name": 2
+        "@spothero/spothero/rule-name": 2
     }
 }
 ```
