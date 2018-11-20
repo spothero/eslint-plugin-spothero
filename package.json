@@ -9,6 +9,7 @@
   ],
   "author": "Boiar Qin",
   "main": "lib/index.js",
+  "repository": "https://github.com/spothero/eslint-plugin-spothero",
   "scripts": {
     "test": "mocha tests --recursive",
     "release": "npm-release -- public"
