@@ -1,6 +1,6 @@
 # eslint-plugin-spothero
 
-SpotHero custom eslint plugin and rules
+SpotHero custom ESLint plugin and rules
 
 ## Installation
 

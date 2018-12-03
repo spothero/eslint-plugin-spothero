@@ -1,13 +1,12 @@
 {
   "name": "@spothero/eslint-plugin-spothero",
   "version": "0.1.0",
-  "description": "SpotHero custom eslint plugin and rules",
+  "description": "SpotHero custom ESLint plugin and rules",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "Boiar Qin",
   "main": "lib/index.js",
   "repository": "https://github.com/spothero/eslint-plugin-spothero",
   "scripts": {
