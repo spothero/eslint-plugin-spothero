@@ -43,7 +43,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* ternary-parentheses: Require Ternary Expressions to have condition enclosed by parentheses
+* ternary-parentheses: Require ternary expressions to have condition enclosed by parentheses
 
 
 
