@@ -8,8 +8,8 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-const rule = require('../../../lib/rules/ternary-parentheses'),
-    RuleTester = require('eslint/lib/testers/rule-tester');
+const rule = require('../../../lib/rules/ternary-parentheses');
+const RuleTester = require('eslint/lib/testers/rule-tester');
 
 //------------------------------------------------------------------------------
 // Helpers
@@ -30,11 +30,11 @@ ruleTester.run('ternary-parentheses', rule, {
     invalid: [
         {
             code: 'var o = a ? b : c;',
-            errors: [{ message: 'Expected parentheses around condition of ternary expression.' }]
+            errors: [{message: 'Expected parentheses around condition of ternary expression.'}]
         },
         {
             code: 'var o = a\n ? b\n : c;',
-            errors: [{ message: 'Expected parentheses around condition of ternary expression.' }]
+            errors: [{message: 'Expected parentheses around condition of ternary expression.'}]
         }
     ]
 });
