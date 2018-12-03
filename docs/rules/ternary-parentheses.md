@@ -3,7 +3,9 @@
 This addresses a stylistic issue. Surrounding the condition in parentheses promotes faster scanning of code and identification of the condition within a ternary expression.
 
 ```js
-var qux = (foo) ? bar : baz;
+/* eslint-env es6 */
+
+const qux = (foo) ? bar : baz;
 ```
 
 ## Rule Details
@@ -14,10 +16,11 @@ Examples of **incorrect** code for this rule:
 
 ```js
 /*eslint ternary-parentheses: "error"*/
+/* eslint-env es6 */
 
-var qux = foo ? bar : baz;
+const qux = foo ? bar : baz;
 
-var qux = foo
+const qux = foo
     ? bar
     : baz;
 ```
@@ -26,12 +29,13 @@ Examples of **correct** code for this rule:
 
 ```js
 /*eslint ternary-parentheses: "error"*/
+/* eslint-env es6 */
 
-var qux = (foo) ? bar : baz;
+const qux = (foo) ? bar : baz;
 
-var qux = (foo && fred) ? bar : baz;
+const qux = (foo && fred) ? bar : baz;
 
-var qux = (foo)
+const qux = (foo)
     ? bar
     : baz;
 ```
