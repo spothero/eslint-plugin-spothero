@@ -1,6 +1,6 @@
 # Require ternary expressions to have condition enclosed by parentheses (ternary-parentheses)
 
-Require regex literals to escape division operators.
+This addresses a stylistic issue. Surrounding the condition in parentheses promotes faster scanning of code and identification of the condition within a ternary expression.
 
 ```js
 var qux = (foo) ? bar : baz;
@@ -8,7 +8,7 @@ var qux = (foo) ? bar : baz;
 
 ## Rule Details
 
-This is used to emphasize the condition in the ternary expression for faster scanning of code.
+This rule enforces parenthese around the condition in a ternary expression.
 
 Examples of **incorrect** code for this rule:
 
