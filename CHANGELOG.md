@@ -1,3 +1,9 @@
+# 0.1.2 - 01/08/2019
+
+## Miscellaneous Updates
+* [[2d391c3](https://github.com/spothero/eslint-plugin-spothero/commit/2d391c3)] - `chore:` Update to latest dependencies (Matt Przybylski)
+* [[2afdf6c](https://github.com/spothero/eslint-plugin-spothero/commit/2afdf6c)] - `docs:` Clean up docs and add Apache 2.0 license (Matt Przybylski)
+
 # 0.1.1 - 12/03/2018
 
 ## Miscellaneous Updates
