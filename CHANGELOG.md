@@ -1,3 +1,8 @@
+# 0.1.3 - 02/28/2019
+
+## Miscellaneous Updates
+* [[170d01a](https://github.com/spothero/eslint-plugin-spothero/commit/170d01a)] - `chore:` Update deps to latest (Matt Przybylski)
+
 # 0.1.2 - 01/08/2019
 
 ## Miscellaneous Updates
