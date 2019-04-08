@@ -1,3 +1,8 @@
+# 0.1.4 - 04/08/2019
+
+## Miscellaneous Updates
+* [[c76f7ec](https://github.com/spothero/eslint-plugin-spothero/commit/c76f7ec)] - `chore:` Update deps to latest (Matt Przybylski)
+
 # 0.1.3 - 02/28/2019
 
 ## Miscellaneous Updates
