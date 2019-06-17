@@ -1,14 +1,11 @@
 {
   "name": "@spothero/eslint-plugin-spothero",
-  "version": "0.1.1",
-  "description": "SpotHero custom ESLint plugin and rules",
-  "keywords": [
-    "eslint",
-    "eslintplugin",
-    "eslint-plugin"
-  ],
+  "version": "0.1.4",
+  "description": "SpotHero's custom ESLint plugin and rules.",
   "main": "lib/index.js",
   "repository": "https://github.com/spothero/eslint-plugin-spothero",
+  "author": "SpotHero",
+  "license": "Apache-2.0",
   "scripts": {
     "test": "mocha tests --recursive",
     "release": "npm-release -- public"
@@ -20,7 +17,7 @@
   },
   "dependencies": {
     "eslint": "5.16.0",
-    "requireindex": "~1.2.0"
+    "requireindex": "1.2.0"
   },
   "devDependencies": {
     "@spothero/commitlint-config": "2.1.0",
@@ -30,6 +27,5 @@
   "engines": {
     "node": ">=10.3.0",
     "npm": ">=6.1.0"
-  },
-  "license": "ISC"
+  }
 }

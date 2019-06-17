@@ -1,13 +1,11 @@
-# eslint-plugin-spothero
-
-SpotHero custom ESLint plugin and rules
+# @spothero/eslint-plugin-spothero
+Custom ESLint rules written by and in use at SpotHero.
 
 ## Installation
-
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-$ npm i eslint --save-dev
+$ npm install eslint --save-dev
 ```
 
 Next, install `@spothero/eslint-plugin-spothero`:
@@ -19,7 +17,6 @@ $ npm install @spothero/eslint-plugin-spothero --save-dev
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `@spothero/eslint-plugin-spothero` globally.
 
 ## Usage
-
 Add `@spothero/eslint-plugin-spothero` to the plugins section of your `.eslintrc` configuration file:
 
 ```json
@@ -42,8 +39,7 @@ Then configure the rules you want to use under the rules section.
 ```
 
 ## Supported Rules
-
-* ternary-parentheses: Require ternary expressions to have condition enclosed by parentheses
+* [@spothero/spothero/ternary-parentheses](docs/rules/ternary-parentheses.md): Require ternary expressions to have condition enclosed by parentheses
 
 
 
