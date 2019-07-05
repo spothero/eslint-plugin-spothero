@@ -16,11 +16,11 @@
     }
   },
   "dependencies": {
-    "eslint": "5.16.0",
+    "eslint": "6.0.1",
     "requireindex": "1.2.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.1.0",
+    "@spothero/commitlint-config": "2.1.1",
     "@spothero/npm-publisher": "2.3.0",
     "mocha": "6.1.4"
   },
