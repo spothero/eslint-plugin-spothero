@@ -1,6 +1,6 @@
 {
   "name": "@spothero/eslint-plugin-spothero",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SpotHero's custom ESLint plugin and rules.",
   "main": "lib/index.js",
   "repository": "https://github.com/spothero/eslint-plugin-spothero",
