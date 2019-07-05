@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 const rule = require('../../../lib/rules/ternary-parentheses');
-const RuleTester = require('eslint/lib/testers/rule-tester');
+const RuleTester = require('eslint/lib/rule-tester/rule-tester');
 
 //------------------------------------------------------------------------------
 // Helpers
