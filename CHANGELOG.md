@@ -1,3 +1,8 @@
+# 0.2.1 - 07/05/2019
+
+## Miscellaneous Updates
+* [[c0a93ed](https://github.com/spothero/eslint-plugin-spothero/commit/c0a93ed)] - `chore:` Update to latest dependencies (Matt Przybylski)
+
 # 0.2.0 - 06/17/2019
 ## Dependency Updates
 * [[bcd414f](https://github.com/spothero/eslint-plugin-spothero/commit/bcd414f)] - Update dependencies, add Codeowners file (boiarqin)
