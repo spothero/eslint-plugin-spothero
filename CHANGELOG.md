@@ -1,3 +1,8 @@
+# 0.2.2 - 07/05/2019
+
+## Miscellaneous Updates
+* [[4de8de4](https://github.com/spothero/eslint-plugin-spothero/commit/4de8de4)] - `fix:` ESLint upgrade broke paths to internal files (Matt Przybylski)
+
 # 0.2.1 - 07/05/2019
 
 ## Miscellaneous Updates
